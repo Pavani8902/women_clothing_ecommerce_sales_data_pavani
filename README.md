@@ -5,10 +5,9 @@ Introduction: The Women's Clothing E-commerce Sales Data Analysis project aims t
 Contents: This dataset contains the following columns along with their descriptions: -order_id: unique identifier for each order placed -order_date: date and time of order -sku: a number used by retailer to assign their products -color: color of the product -size: size of the product, treat missing values as ( One Size ) -unit_price: unit price of the product -quantity: quantity ordered for that particular product -revenue: unit_price * quantity
 
 Steps:
-
-Importing necessary packages.
-Loading the data from the local system to the jupyter notebook.
-Data View
-Data Cleaning (Filteration / Manipulation)
-Data Sorting / Searching / Validation
-Data Visualization
+1.Importing necessary packages.
+2.Loading the data from the local system to the jupyter notebook.
+3.Data View
+4.Data Cleaning (Filteration / Manipulation)
+5.Data Sorting / Searching / Validation
+6.Data Visualization
